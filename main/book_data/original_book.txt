@@ -1,0 +1,3 @@
+This is a placeholder for the full text of the book that will be used to create the knowledge graph.
+
+It should contain the entire story, from beginning to end, to give the Llama 4 model the maximum possible context about the world, its characters, and its rules. 

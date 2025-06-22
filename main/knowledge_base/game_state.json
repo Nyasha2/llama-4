@@ -1,0 +1,41 @@
+{
+  "player_character": {
+    "name": "Player",
+    "location": "The Prancing Pony Inn",
+    "inventory": [
+      "A rusty key",
+      "10 gold pieces"
+    ]
+  },
+  "conversation_history": [
+    "Narrator: You find yourself in the dimly lit common room of the Prancing Pony Inn. A mysterious figure in the corner beckons you over. What do you do?",
+    "Player: I walk over to the mysterious figure.",
+    "Player: Hey",
+    "Narrator: Error: Could not connect to the Llama 4 API. Details: 401 Client Error: Unauthorized for url: https://api.llama.com/v1/chat/completions",
+    "Player: Hey",
+    "Narrator: Error: Could not connect to the Llama 4 API. Details: 401 Client Error: Unauthorized for url: https://api.llama.com/v1/chat/completions",
+    "Player: hey",
+    "Narrator: Error: Could not connect to the Llama 4 API. Details: 401 Client Error: Unauthorized for url: https://api.llama.com/v1/chat/completions",
+    "Player: he",
+    "Narrator: Error: Could not connect to the Llama 4 API. Details: 400 Client Error: Bad Request for url: https://api.llama.com/v1/chat/completions",
+    "Player: hi",
+    "Narrator: Error: Could not connect to the Llama 4 API. Details: 400 Client Error: Bad Request for url: https://api.llama.com/v1/chat/completions",
+    "Player: hey",
+    "Narrator: Error: Could not connect to the Llama 4 API. Details: 401 Client Error: Unauthorized for url: https://api.together.xyz/v1/chat/completions",
+    "Player: hi",
+    "Narrator: Error: Could not connect to the Llama 4 API. Details: 401 Client Error: Unauthorized for url: https://api.together.xyz/v1/chat/completions",
+    "Player: hi",
+    "Narrator: Error: Could not connect to the Llama 4 API. Details: 401 Client Error: Unauthorized for url: https://api.together.xyz/v1/chat/completions",
+    "Player: hi",
+    "Narrator: \uc624\ub958: Llama API\uc5d0 \uc5f0\uacb0\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \uc138\ubd80 \uc815\ubcf4: 401 Client Error: Unauthorized for url: https://api.together.xyz/v1/chat/completions",
+    "Player: hi",
+    "Narrator: Error: Could not connect to the Llama API. Details: 401 Client Error: Unauthorized for url: https://api.together.xyz/v1/chat/completions",
+    "Player: hi",
+    "Narrator: Error: Could not connect to the Llama API. Details: 401 Client Error: Unauthorized for url: https://api.together.xyz/v1/chat/completions",
+    "Player: hh",
+    "Narrator: Error: Could not connect to the Llama API. Details: 401 Client Error: Unauthorized for url: https://api.together.xyz/v1/chat/completions",
+    "Player: test",
+    "Narrator: The mysterious figure in the corner, seemingly frustrated with the repeated attempts at conversation, finally looks up from their mug. Their eyes narrow, and they gesture for you to sit down. As you take a seat, they lean in, their voice low and gravelly.\n\n\"Enough games, adventurer. I see you're not here to chat, but to test the waters. Very well, let's test them together.\" They slide a small, intricately carved box across the table. \"Solve this, and we might just have a proposition worth discussing.\"\n\nThe box is adorned with symbols that seem to be a mix of magical script and a puzzle. You recognize some of the symbols as being related to the ley lines that crisscross the world, a source of magic. The box emits a faint hum, suggesting it is magically locked.\n\nYour inventory consists of a rusty key and 10 gold pieces. The rusty key looks old and worn, but it might be worth trying on the box. You also recall that Elias Vance, a clever rogue, was known for his skill with puzzles and locks.\n\nWhat do you do?\n\nA) Attempt to open the box with the rusty key.\nB) Examine the symbols on the box more closely to understand the puzzle.\nC) Try to negotiate with the mysterious figure for more information.\nD) Leave the inn and explore other leads.\n\nChoose your action:"
+  ],
+  "world_events_unlocked": []
+}

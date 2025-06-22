@@ -1,0 +1,6801 @@
+{
+  "title": "Harry Potter and the Sorcerer's Stone",
+  "summary": "Character relationships extracted from Harry Potter and the Sorcerer's Stone",
+  "nodes": [
+    {
+      "id": "char_0",
+      "name": "Gonagall",
+      "role": "supporting",
+      "traits": [
+        "kind"
+      ]
+    },
+    {
+      "id": "char_1",
+      "name": "Harry",
+      "role": "protagonist",
+      "traits": [
+        "brave",
+        "kind",
+        "intelligent"
+      ]
+    },
+    {
+      "id": "char_2",
+      "name": "Vernon",
+      "role": "antagonist",
+      "traits": [
+        "brave",
+        "kind",
+        "intelligent"
+      ]
+    },
+    {
+      "id": "char_3",
+      "name": "Dudley",
+      "role": "supporting",
+      "traits": [
+        "mysterious",
+        "funny"
+      ]
+    },
+    {
+      "id": "char_4",
+      "name": "Hagrid",
+      "role": "supporting",
+      "traits": [
+        "brave",
+        "intelligent",
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_5",
+      "name": "Malkin",
+      "role": "character",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_6",
+      "name": "Ollivander",
+      "role": "character",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_7",
+      "name": "Ron",
+      "role": "supporting",
+      "traits": [
+        "brave",
+        "kind",
+        "intelligent"
+      ]
+    },
+    {
+      "id": "char_8",
+      "name": "Fred",
+      "role": "supporting",
+      "traits": [
+        "funny"
+      ]
+    },
+    {
+      "id": "char_9",
+      "name": "Percy",
+      "role": "supporting",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_10",
+      "name": "It",
+      "role": "protagonist",
+      "traits": [
+        "brave",
+        "intelligent",
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_11",
+      "name": "Snape",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_12",
+      "name": "Hermione",
+      "role": "antagonist",
+      "traits": [
+        "brave",
+        "kind",
+        "intelligent"
+      ]
+    },
+    {
+      "id": "char_13",
+      "name": "Wood",
+      "role": "supporting",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_14",
+      "name": "Seamus",
+      "role": "antagonist",
+      "traits": [
+        "funny"
+      ]
+    },
+    {
+      "id": "char_15",
+      "name": "Filch",
+      "role": "supporting",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_16",
+      "name": "Quirrell",
+      "role": "antagonist",
+      "traits": [
+        "brave",
+        "funny"
+      ]
+    },
+    {
+      "id": "char_17",
+      "name": "Voldemort",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_18",
+      "name": "Dumbledore",
+      "role": "supporting",
+      "traits": [
+        "brave",
+        "kind",
+        "funny"
+      ]
+    },
+    {
+      "id": "char_19",
+      "name": "Sorcerer",
+      "role": "supporting",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_20",
+      "name": "Dursley",
+      "role": "supporting",
+      "traits": [
+        "brave",
+        "mysterious",
+        "funny"
+      ]
+    },
+    {
+      "id": "char_21",
+      "name": "Potter",
+      "role": "antagonist",
+      "traits": [
+        "kind",
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_22",
+      "name": "Figg",
+      "role": "character",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_23",
+      "name": "Who",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_24",
+      "name": "Diggle",
+      "role": "character",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_25",
+      "name": "King",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_26",
+      "name": "George",
+      "role": "supporting",
+      "traits": [
+        "funny"
+      ]
+    },
+    {
+      "id": "char_27",
+      "name": "Mom",
+      "role": "character",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_28",
+      "name": "Charlie",
+      "role": "supporting",
+      "traits": [
+        "intelligent"
+      ]
+    },
+    {
+      "id": "char_29",
+      "name": "Bott",
+      "role": "supporting",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_30",
+      "name": "Neville",
+      "role": "supporting",
+      "traits": [
+        "brave"
+      ]
+    },
+    {
+      "id": "char_31",
+      "name": "Let",
+      "role": "character",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_32",
+      "name": "Goyle",
+      "role": "supporting",
+      "traits": [
+        "brave"
+      ]
+    },
+    {
+      "id": "char_33",
+      "name": "Malfoy",
+      "role": "supporting",
+      "traits": [
+        "brave"
+      ]
+    },
+    {
+      "id": "char_34",
+      "name": "Baron",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_35",
+      "name": "Dean",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_36",
+      "name": "Granger",
+      "role": "supporting",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_37",
+      "name": "Hooch",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_38",
+      "name": "Longbottom",
+      "role": "supporting",
+      "traits": [
+        "funny"
+      ]
+    },
+    {
+      "id": "char_39",
+      "name": "Lady",
+      "role": "supporting",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_40",
+      "name": "Peeves",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_41",
+      "name": "Seeker",
+      "role": "supporting",
+      "traits": [
+        "intelligent"
+      ]
+    },
+    {
+      "id": "char_42",
+      "name": "Gryffindor",
+      "role": "supporting",
+      "traits": [
+        "brave",
+        "kind",
+        "intelligent"
+      ]
+    },
+    {
+      "id": "char_43",
+      "name": "Flamel",
+      "role": "supporting",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_44",
+      "name": "Norris",
+      "role": "character",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_45",
+      "name": "Stone",
+      "role": "supporting",
+      "traits": [
+        "intelligent"
+      ]
+    },
+    {
+      "id": "char_46",
+      "name": "Norbert",
+      "role": "supporting",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_47",
+      "name": "Fang",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_48",
+      "name": "Firenze",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_49",
+      "name": "Fluffy",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_50",
+      "name": "Devil",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_51",
+      "name": "Sprout",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_52",
+      "name": "Slytherin",
+      "role": "supporting",
+      "traits": [
+        "brave",
+        "kind",
+        "intelligent"
+      ]
+    },
+    {
+      "id": "char_53",
+      "name": "Mr",
+      "role": "character",
+      "traits": [
+        "funny"
+      ]
+    },
+    {
+      "id": "char_54",
+      "name": "Mrs",
+      "role": "character",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_55",
+      "name": "Potters",
+      "role": "antagonist",
+      "traits": [
+        "kind"
+      ]
+    },
+    {
+      "id": "char_56",
+      "name": "Muggles",
+      "role": "protagonist",
+      "traits": [
+        "kind"
+      ]
+    },
+    {
+      "id": "char_57",
+      "name": "Dursleys",
+      "role": "supporting",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_58",
+      "name": "Petunia",
+      "role": "supporting",
+      "traits": [
+        "kind",
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_59",
+      "name": "Christmas",
+      "role": "character",
+      "traits": [
+        "funny"
+      ]
+    },
+    {
+      "id": "char_60",
+      "name": "Hogwarts",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_61",
+      "name": "Side",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_62",
+      "name": "Tap",
+      "role": "character",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_63",
+      "name": "Gringotts",
+      "role": "supporting",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_64",
+      "name": "Magic",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_65",
+      "name": "London",
+      "role": "supporting",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_66",
+      "name": "Cauldron",
+      "role": "character",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_67",
+      "name": "Alley",
+      "role": "character",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_68",
+      "name": "Griphook",
+      "role": "character",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_69",
+      "name": "Quidditch",
+      "role": "supporting",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_70",
+      "name": "Hedwig",
+      "role": "character",
+      "traits": [
+        "funny"
+      ]
+    },
+    {
+      "id": "char_71",
+      "name": "Weasley",
+      "role": "supporting",
+      "traits": [
+        "funny"
+      ]
+    },
+    {
+      "id": "char_72",
+      "name": "Beans",
+      "role": "supporting",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_73",
+      "name": "Professor",
+      "role": "supporting",
+      "traits": [
+        "brave",
+        "kind"
+      ]
+    },
+    {
+      "id": "char_74",
+      "name": "Thousand",
+      "role": "supporting",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_75",
+      "name": "Leviosa",
+      "role": "character",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_76",
+      "name": "Snitch",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_77",
+      "name": "Section",
+      "role": "character",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_78",
+      "name": "Ronan",
+      "role": "character",
+      "traits": [
+        "mysterious"
+      ]
+    },
+    {
+      "id": "char_79",
+      "name": "Mc",
+      "role": "supporting",
+      "traits": [
+        "kind"
+      ]
+    },
+    {
+      "id": "char_80",
+      "name": "Flitwick",
+      "role": "antagonist",
+      "traits": [
+        "mysterious"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "char_0",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_13",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_15",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_19",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_32",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_36",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_40",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_49",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_50",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_51",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_56",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_71",
+      "label": "friend"
+    },
+    {
+      "source": "char_0",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_0",
+      "target": "char_80",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_2",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_3",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_5",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_6",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_8",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_9",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_13",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_14",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_15",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_17",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_19",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_20",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_23",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_24",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_26",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_28",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_32",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_35",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_36",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_39",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_40",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_41",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_42",
+      "label": "family"
+    },
+    {
+      "source": "char_1",
+      "target": "char_43",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_44",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_45",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_46",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_47",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_48",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_49",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_50",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_54",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_55",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_56",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_57",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_58",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_63",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_64",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_65",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_66",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_67",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_68",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_70",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_74",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_76",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_77",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_78",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_1",
+      "target": "char_80",
+      "label": "knows"
+    },
+    {
+      "source": "char_2",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_2",
+      "target": "char_3",
+      "label": "knows"
+    },
+    {
+      "source": "char_2",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_2",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_2",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_2",
+      "target": "char_20",
+      "label": "friend"
+    },
+    {
+      "source": "char_2",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_2",
+      "target": "char_57",
+      "label": "friend"
+    },
+    {
+      "source": "char_2",
+      "target": "char_58",
+      "label": "knows"
+    },
+    {
+      "source": "char_3",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_3",
+      "target": "char_2",
+      "label": "knows"
+    },
+    {
+      "source": "char_3",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_3",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_3",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_3",
+      "target": "char_20",
+      "label": "knows"
+    },
+    {
+      "source": "char_3",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_3",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_3",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_3",
+      "target": "char_54",
+      "label": "knows"
+    },
+    {
+      "source": "char_3",
+      "target": "char_55",
+      "label": "knows"
+    },
+    {
+      "source": "char_3",
+      "target": "char_57",
+      "label": "knows"
+    },
+    {
+      "source": "char_3",
+      "target": "char_58",
+      "label": "knows"
+    },
+    {
+      "source": "char_3",
+      "target": "char_65",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_2",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_3",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_5",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_6",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_8",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_12",
+      "label": "friend"
+    },
+    {
+      "source": "char_4",
+      "target": "char_15",
+      "label": "friend"
+    },
+    {
+      "source": "char_4",
+      "target": "char_17",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_20",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_23",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_25",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_28",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_29",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_35",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_40",
+      "label": "enemy"
+    },
+    {
+      "source": "char_4",
+      "target": "char_43",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_45",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_46",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_47",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_48",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_49",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_56",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_57",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_58",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_63",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_64",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_66",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_67",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_68",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_70",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_72",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_74",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_78",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_4",
+      "target": "char_80",
+      "label": "knows"
+    },
+    {
+      "source": "char_5",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_5",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_6",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_6",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_6",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_3",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_8",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_9",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_14",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_17",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_19",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_26",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_28",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_32",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_34",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_35",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_36",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_39",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_40",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_43",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_45",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_47",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_48",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_49",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_53",
+      "label": "family"
+    },
+    {
+      "source": "char_7",
+      "target": "char_54",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_56",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_63",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_64",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_70",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_74",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_75",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_78",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_7",
+      "target": "char_80",
+      "label": "knows"
+    },
+    {
+      "source": "char_8",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_8",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_8",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_8",
+      "target": "char_9",
+      "label": "knows"
+    },
+    {
+      "source": "char_8",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_8",
+      "target": "char_13",
+      "label": "friend"
+    },
+    {
+      "source": "char_8",
+      "target": "char_25",
+      "label": "knows"
+    },
+    {
+      "source": "char_8",
+      "target": "char_26",
+      "label": "knows"
+    },
+    {
+      "source": "char_8",
+      "target": "char_29",
+      "label": "knows"
+    },
+    {
+      "source": "char_8",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_8",
+      "target": "char_32",
+      "label": "knows"
+    },
+    {
+      "source": "char_8",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_8",
+      "target": "char_42",
+      "label": "friend"
+    },
+    {
+      "source": "char_8",
+      "target": "char_52",
+      "label": "friend"
+    },
+    {
+      "source": "char_8",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_8",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_8",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_8",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_8",
+      "target": "char_72",
+      "label": "knows"
+    },
+    {
+      "source": "char_9",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_9",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_9",
+      "target": "char_8",
+      "label": "knows"
+    },
+    {
+      "source": "char_9",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_9",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_9",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_9",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_9",
+      "target": "char_26",
+      "label": "knows"
+    },
+    {
+      "source": "char_9",
+      "target": "char_28",
+      "label": "knows"
+    },
+    {
+      "source": "char_9",
+      "target": "char_40",
+      "label": "knows"
+    },
+    {
+      "source": "char_9",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_9",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_9",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_9",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_2",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_3",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_13",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_15",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_17",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_23",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_35",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_36",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_38",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_40",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_41",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_45",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_46",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_48",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_54",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_56",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_58",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_63",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_70",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_71",
+      "label": "family"
+    },
+    {
+      "source": "char_10",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_74",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_76",
+      "label": "knows"
+    },
+    {
+      "source": "char_10",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_8",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_9",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_14",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_15",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_17",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_19",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_20",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_26",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_32",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_36",
+      "label": "friend"
+    },
+    {
+      "source": "char_11",
+      "target": "char_39",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_43",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_45",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_49",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_50",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_51",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_54",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_57",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_64",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_74",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_76",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_77",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_11",
+      "target": "char_80",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_2",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_4",
+      "label": "friend"
+    },
+    {
+      "source": "char_12",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_9",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_14",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_19",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_32",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_35",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_36",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_39",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_43",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_45",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_46",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_47",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_49",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_72",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_75",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_76",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_78",
+      "label": "knows"
+    },
+    {
+      "source": "char_12",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_13",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_13",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_13",
+      "target": "char_8",
+      "label": "friend"
+    },
+    {
+      "source": "char_13",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_13",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_13",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_13",
+      "target": "char_26",
+      "label": "friend"
+    },
+    {
+      "source": "char_13",
+      "target": "char_41",
+      "label": "knows"
+    },
+    {
+      "source": "char_13",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_13",
+      "target": "char_52",
+      "label": "friend"
+    },
+    {
+      "source": "char_13",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_13",
+      "target": "char_71",
+      "label": "friend"
+    },
+    {
+      "source": "char_13",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_13",
+      "target": "char_74",
+      "label": "knows"
+    },
+    {
+      "source": "char_13",
+      "target": "char_76",
+      "label": "knows"
+    },
+    {
+      "source": "char_13",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_13",
+      "target": "char_80",
+      "label": "knows"
+    },
+    {
+      "source": "char_14",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_14",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_14",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_14",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_14",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_14",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_14",
+      "target": "char_35",
+      "label": "knows"
+    },
+    {
+      "source": "char_14",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_14",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_15",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_15",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_15",
+      "target": "char_4",
+      "label": "friend"
+    },
+    {
+      "source": "char_15",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_15",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_15",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_15",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_15",
+      "target": "char_40",
+      "label": "knows"
+    },
+    {
+      "source": "char_15",
+      "target": "char_44",
+      "label": "knows"
+    },
+    {
+      "source": "char_15",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_15",
+      "target": "char_54",
+      "label": "knows"
+    },
+    {
+      "source": "char_15",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_15",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_15",
+      "target": "char_77",
+      "label": "knows"
+    },
+    {
+      "source": "char_15",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_14",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_17",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_19",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_23",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_45",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_49",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_50",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_51",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_66",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_16",
+      "target": "char_80",
+      "label": "knows"
+    },
+    {
+      "source": "char_17",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_17",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_17",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_17",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_17",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_17",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_17",
+      "target": "char_20",
+      "label": "knows"
+    },
+    {
+      "source": "char_17",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_17",
+      "target": "char_23",
+      "label": "knows"
+    },
+    {
+      "source": "char_17",
+      "target": "char_45",
+      "label": "knows"
+    },
+    {
+      "source": "char_17",
+      "target": "char_48",
+      "label": "knows"
+    },
+    {
+      "source": "char_17",
+      "target": "char_49",
+      "label": "knows"
+    },
+    {
+      "source": "char_17",
+      "target": "char_57",
+      "label": "knows"
+    },
+    {
+      "source": "char_17",
+      "target": "char_61",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_9",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_13",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_20",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_23",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_43",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_45",
+      "label": "friend"
+    },
+    {
+      "source": "char_18",
+      "target": "char_49",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_51",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_56",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_57",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_61",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_63",
+      "label": "friend"
+    },
+    {
+      "source": "char_18",
+      "target": "char_64",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_70",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_18",
+      "target": "char_80",
+      "label": "knows"
+    },
+    {
+      "source": "char_19",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_19",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_19",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_19",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_19",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_19",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_19",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_19",
+      "target": "char_43",
+      "label": "friend"
+    },
+    {
+      "source": "char_19",
+      "target": "char_45",
+      "label": "knows"
+    },
+    {
+      "source": "char_19",
+      "target": "char_49",
+      "label": "knows"
+    },
+    {
+      "source": "char_19",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_19",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_19",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_20",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_20",
+      "target": "char_2",
+      "label": "friend"
+    },
+    {
+      "source": "char_20",
+      "target": "char_3",
+      "label": "knows"
+    },
+    {
+      "source": "char_20",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_20",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_20",
+      "target": "char_17",
+      "label": "knows"
+    },
+    {
+      "source": "char_20",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_20",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_20",
+      "target": "char_45",
+      "label": "knows"
+    },
+    {
+      "source": "char_20",
+      "target": "char_53",
+      "label": "family"
+    },
+    {
+      "source": "char_20",
+      "target": "char_54",
+      "label": "family"
+    },
+    {
+      "source": "char_20",
+      "target": "char_55",
+      "label": "knows"
+    },
+    {
+      "source": "char_20",
+      "target": "char_57",
+      "label": "knows"
+    },
+    {
+      "source": "char_20",
+      "target": "char_58",
+      "label": "friend"
+    },
+    {
+      "source": "char_20",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_20",
+      "target": "char_61",
+      "label": "knows"
+    },
+    {
+      "source": "char_20",
+      "target": "char_64",
+      "label": "knows"
+    },
+    {
+      "source": "char_20",
+      "target": "char_70",
+      "label": "knows"
+    },
+    {
+      "source": "char_20",
+      "target": "char_74",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_2",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_3",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_9",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_13",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_17",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_19",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_20",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_24",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_35",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_36",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_38",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_45",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_48",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_54",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_55",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_57",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_58",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_64",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_76",
+      "label": "knows"
+    },
+    {
+      "source": "char_21",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_22",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_23",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_23",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_23",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_23",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_23",
+      "target": "char_17",
+      "label": "knows"
+    },
+    {
+      "source": "char_23",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_23",
+      "target": "char_45",
+      "label": "knows"
+    },
+    {
+      "source": "char_23",
+      "target": "char_56",
+      "label": "knows"
+    },
+    {
+      "source": "char_23",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_23",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_24",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_24",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_25",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_25",
+      "target": "char_8",
+      "label": "knows"
+    },
+    {
+      "source": "char_25",
+      "target": "char_29",
+      "label": "knows"
+    },
+    {
+      "source": "char_25",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_25",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_25",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_25",
+      "target": "char_72",
+      "label": "knows"
+    },
+    {
+      "source": "char_26",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_26",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_26",
+      "target": "char_8",
+      "label": "knows"
+    },
+    {
+      "source": "char_26",
+      "target": "char_9",
+      "label": "knows"
+    },
+    {
+      "source": "char_26",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_26",
+      "target": "char_13",
+      "label": "friend"
+    },
+    {
+      "source": "char_26",
+      "target": "char_32",
+      "label": "knows"
+    },
+    {
+      "source": "char_26",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_26",
+      "target": "char_42",
+      "label": "friend"
+    },
+    {
+      "source": "char_26",
+      "target": "char_52",
+      "label": "friend"
+    },
+    {
+      "source": "char_26",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_26",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_28",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_28",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_28",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_28",
+      "target": "char_9",
+      "label": "knows"
+    },
+    {
+      "source": "char_28",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_28",
+      "target": "char_46",
+      "label": "knows"
+    },
+    {
+      "source": "char_28",
+      "target": "char_63",
+      "label": "knows"
+    },
+    {
+      "source": "char_28",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_28",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_29",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_29",
+      "target": "char_8",
+      "label": "knows"
+    },
+    {
+      "source": "char_29",
+      "target": "char_25",
+      "label": "knows"
+    },
+    {
+      "source": "char_29",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_29",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_29",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_29",
+      "target": "char_72",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_8",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_14",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_15",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_25",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_29",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_32",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_34",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_35",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_36",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_37",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_38",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_40",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_47",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_72",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_30",
+      "target": "char_80",
+      "label": "knows"
+    },
+    {
+      "source": "char_32",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_32",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_32",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_32",
+      "target": "char_8",
+      "label": "knows"
+    },
+    {
+      "source": "char_32",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_32",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_32",
+      "target": "char_26",
+      "label": "knows"
+    },
+    {
+      "source": "char_32",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_32",
+      "target": "char_33",
+      "label": "friend"
+    },
+    {
+      "source": "char_32",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_32",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_3",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_8",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_15",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_26",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_28",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_32",
+      "label": "friend"
+    },
+    {
+      "source": "char_33",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_46",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_47",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_61",
+      "label": "family"
+    },
+    {
+      "source": "char_33",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_74",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_33",
+      "target": "char_80",
+      "label": "knows"
+    },
+    {
+      "source": "char_34",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_34",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_34",
+      "target": "char_40",
+      "label": "knows"
+    },
+    {
+      "source": "char_34",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_35",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_35",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_35",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_35",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_35",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_35",
+      "target": "char_14",
+      "label": "knows"
+    },
+    {
+      "source": "char_35",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_35",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_35",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_36",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_36",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_36",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_36",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_36",
+      "target": "char_11",
+      "label": "friend"
+    },
+    {
+      "source": "char_36",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_36",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_36",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_36",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_36",
+      "target": "char_69",
+      "label": "friend"
+    },
+    {
+      "source": "char_36",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_36",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_36",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_37",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_37",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_38",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_38",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_38",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_38",
+      "target": "char_42",
+      "label": "friend"
+    },
+    {
+      "source": "char_38",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_39",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_39",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_39",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_39",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_39",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_40",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_40",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_40",
+      "target": "char_4",
+      "label": "enemy"
+    },
+    {
+      "source": "char_40",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_40",
+      "target": "char_9",
+      "label": "knows"
+    },
+    {
+      "source": "char_40",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_40",
+      "target": "char_15",
+      "label": "knows"
+    },
+    {
+      "source": "char_40",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_40",
+      "target": "char_34",
+      "label": "knows"
+    },
+    {
+      "source": "char_40",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_40",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_40",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_41",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_41",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_41",
+      "target": "char_13",
+      "label": "knows"
+    },
+    {
+      "source": "char_41",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_41",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_41",
+      "target": "char_69",
+      "label": "friend"
+    },
+    {
+      "source": "char_41",
+      "target": "char_76",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_1",
+      "label": "family"
+    },
+    {
+      "source": "char_42",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_8",
+      "label": "friend"
+    },
+    {
+      "source": "char_42",
+      "target": "char_9",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_13",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_14",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_26",
+      "label": "friend"
+    },
+    {
+      "source": "char_42",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_35",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_36",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_37",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_38",
+      "label": "friend"
+    },
+    {
+      "source": "char_42",
+      "target": "char_39",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_40",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_41",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_71",
+      "label": "friend"
+    },
+    {
+      "source": "char_42",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_42",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_43",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_43",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_43",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_43",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_43",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_43",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_43",
+      "target": "char_19",
+      "label": "friend"
+    },
+    {
+      "source": "char_43",
+      "target": "char_45",
+      "label": "friend"
+    },
+    {
+      "source": "char_43",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_44",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_44",
+      "target": "char_15",
+      "label": "knows"
+    },
+    {
+      "source": "char_44",
+      "target": "char_47",
+      "label": "knows"
+    },
+    {
+      "source": "char_44",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_45",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_45",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_45",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_45",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_45",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_45",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_45",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_45",
+      "target": "char_17",
+      "label": "knows"
+    },
+    {
+      "source": "char_45",
+      "target": "char_18",
+      "label": "friend"
+    },
+    {
+      "source": "char_45",
+      "target": "char_19",
+      "label": "knows"
+    },
+    {
+      "source": "char_45",
+      "target": "char_20",
+      "label": "knows"
+    },
+    {
+      "source": "char_45",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_45",
+      "target": "char_23",
+      "label": "knows"
+    },
+    {
+      "source": "char_45",
+      "target": "char_43",
+      "label": "friend"
+    },
+    {
+      "source": "char_45",
+      "target": "char_49",
+      "label": "knows"
+    },
+    {
+      "source": "char_45",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_45",
+      "target": "char_57",
+      "label": "knows"
+    },
+    {
+      "source": "char_45",
+      "target": "char_61",
+      "label": "knows"
+    },
+    {
+      "source": "char_45",
+      "target": "char_63",
+      "label": "friend"
+    },
+    {
+      "source": "char_45",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_46",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_46",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_46",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_46",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_46",
+      "target": "char_28",
+      "label": "knows"
+    },
+    {
+      "source": "char_46",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_47",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_47",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_47",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_47",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_47",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_47",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_47",
+      "target": "char_44",
+      "label": "knows"
+    },
+    {
+      "source": "char_48",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_48",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_48",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_48",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_48",
+      "target": "char_17",
+      "label": "knows"
+    },
+    {
+      "source": "char_48",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_48",
+      "target": "char_78",
+      "label": "knows"
+    },
+    {
+      "source": "char_49",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_49",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_49",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_49",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_49",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_49",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_49",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_49",
+      "target": "char_17",
+      "label": "knows"
+    },
+    {
+      "source": "char_49",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_49",
+      "target": "char_19",
+      "label": "knows"
+    },
+    {
+      "source": "char_49",
+      "target": "char_45",
+      "label": "knows"
+    },
+    {
+      "source": "char_49",
+      "target": "char_70",
+      "label": "knows"
+    },
+    {
+      "source": "char_49",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_49",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_50",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_50",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_50",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_50",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_50",
+      "target": "char_51",
+      "label": "knows"
+    },
+    {
+      "source": "char_50",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_50",
+      "target": "char_80",
+      "label": "knows"
+    },
+    {
+      "source": "char_51",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_51",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_51",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_51",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_51",
+      "target": "char_50",
+      "label": "knows"
+    },
+    {
+      "source": "char_51",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_51",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_51",
+      "target": "char_80",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_8",
+      "label": "friend"
+    },
+    {
+      "source": "char_52",
+      "target": "char_9",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_13",
+      "label": "friend"
+    },
+    {
+      "source": "char_52",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_26",
+      "label": "friend"
+    },
+    {
+      "source": "char_52",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_34",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_41",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_76",
+      "label": "knows"
+    },
+    {
+      "source": "char_52",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_3",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_6",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_7",
+      "label": "family"
+    },
+    {
+      "source": "char_53",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_15",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_19",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_20",
+      "label": "family"
+    },
+    {
+      "source": "char_53",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_22",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_45",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_54",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_55",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_57",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_58",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_65",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_66",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_53",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_54",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_54",
+      "target": "char_3",
+      "label": "knows"
+    },
+    {
+      "source": "char_54",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_54",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_54",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_54",
+      "target": "char_15",
+      "label": "knows"
+    },
+    {
+      "source": "char_54",
+      "target": "char_20",
+      "label": "family"
+    },
+    {
+      "source": "char_54",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_54",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_54",
+      "target": "char_55",
+      "label": "knows"
+    },
+    {
+      "source": "char_54",
+      "target": "char_58",
+      "label": "knows"
+    },
+    {
+      "source": "char_54",
+      "target": "char_65",
+      "label": "knows"
+    },
+    {
+      "source": "char_55",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_55",
+      "target": "char_3",
+      "label": "knows"
+    },
+    {
+      "source": "char_55",
+      "target": "char_20",
+      "label": "knows"
+    },
+    {
+      "source": "char_55",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_55",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_55",
+      "target": "char_54",
+      "label": "knows"
+    },
+    {
+      "source": "char_55",
+      "target": "char_57",
+      "label": "knows"
+    },
+    {
+      "source": "char_55",
+      "target": "char_58",
+      "label": "knows"
+    },
+    {
+      "source": "char_56",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_56",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_56",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_56",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_56",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_56",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_56",
+      "target": "char_23",
+      "label": "knows"
+    },
+    {
+      "source": "char_56",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_56",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_56",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_57",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_57",
+      "target": "char_2",
+      "label": "friend"
+    },
+    {
+      "source": "char_57",
+      "target": "char_3",
+      "label": "knows"
+    },
+    {
+      "source": "char_57",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_57",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_57",
+      "target": "char_17",
+      "label": "knows"
+    },
+    {
+      "source": "char_57",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_57",
+      "target": "char_20",
+      "label": "knows"
+    },
+    {
+      "source": "char_57",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_57",
+      "target": "char_45",
+      "label": "knows"
+    },
+    {
+      "source": "char_57",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_57",
+      "target": "char_55",
+      "label": "knows"
+    },
+    {
+      "source": "char_57",
+      "target": "char_58",
+      "label": "friend"
+    },
+    {
+      "source": "char_57",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_57",
+      "target": "char_61",
+      "label": "knows"
+    },
+    {
+      "source": "char_57",
+      "target": "char_64",
+      "label": "knows"
+    },
+    {
+      "source": "char_57",
+      "target": "char_70",
+      "label": "knows"
+    },
+    {
+      "source": "char_57",
+      "target": "char_74",
+      "label": "knows"
+    },
+    {
+      "source": "char_58",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_58",
+      "target": "char_2",
+      "label": "knows"
+    },
+    {
+      "source": "char_58",
+      "target": "char_3",
+      "label": "knows"
+    },
+    {
+      "source": "char_58",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_58",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_58",
+      "target": "char_20",
+      "label": "friend"
+    },
+    {
+      "source": "char_58",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_58",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_58",
+      "target": "char_54",
+      "label": "knows"
+    },
+    {
+      "source": "char_58",
+      "target": "char_55",
+      "label": "knows"
+    },
+    {
+      "source": "char_58",
+      "target": "char_57",
+      "label": "friend"
+    },
+    {
+      "source": "char_58",
+      "target": "char_65",
+      "label": "knows"
+    },
+    {
+      "source": "char_58",
+      "target": "char_70",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_8",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_9",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_26",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_44",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_59",
+      "target": "char_80",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_8",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_20",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_23",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_25",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_29",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_57",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_63",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_64",
+      "label": "enemy"
+    },
+    {
+      "source": "char_60",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_70",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_72",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_60",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_61",
+      "target": "char_17",
+      "label": "knows"
+    },
+    {
+      "source": "char_61",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_61",
+      "target": "char_20",
+      "label": "knows"
+    },
+    {
+      "source": "char_61",
+      "target": "char_33",
+      "label": "family"
+    },
+    {
+      "source": "char_61",
+      "target": "char_45",
+      "label": "knows"
+    },
+    {
+      "source": "char_61",
+      "target": "char_57",
+      "label": "knows"
+    },
+    {
+      "source": "char_63",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_63",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_63",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_63",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_63",
+      "target": "char_18",
+      "label": "friend"
+    },
+    {
+      "source": "char_63",
+      "target": "char_28",
+      "label": "knows"
+    },
+    {
+      "source": "char_63",
+      "target": "char_45",
+      "label": "friend"
+    },
+    {
+      "source": "char_63",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_63",
+      "target": "char_65",
+      "label": "knows"
+    },
+    {
+      "source": "char_63",
+      "target": "char_68",
+      "label": "knows"
+    },
+    {
+      "source": "char_64",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_64",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_64",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_64",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_64",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_64",
+      "target": "char_20",
+      "label": "knows"
+    },
+    {
+      "source": "char_64",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_64",
+      "target": "char_57",
+      "label": "knows"
+    },
+    {
+      "source": "char_64",
+      "target": "char_60",
+      "label": "enemy"
+    },
+    {
+      "source": "char_64",
+      "target": "char_65",
+      "label": "knows"
+    },
+    {
+      "source": "char_64",
+      "target": "char_70",
+      "label": "knows"
+    },
+    {
+      "source": "char_64",
+      "target": "char_74",
+      "label": "knows"
+    },
+    {
+      "source": "char_65",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_65",
+      "target": "char_3",
+      "label": "knows"
+    },
+    {
+      "source": "char_65",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_65",
+      "target": "char_54",
+      "label": "knows"
+    },
+    {
+      "source": "char_65",
+      "target": "char_58",
+      "label": "knows"
+    },
+    {
+      "source": "char_65",
+      "target": "char_63",
+      "label": "knows"
+    },
+    {
+      "source": "char_65",
+      "target": "char_64",
+      "label": "knows"
+    },
+    {
+      "source": "char_65",
+      "target": "char_74",
+      "label": "knows"
+    },
+    {
+      "source": "char_66",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_66",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_66",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_66",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_66",
+      "target": "char_67",
+      "label": "knows"
+    },
+    {
+      "source": "char_66",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_67",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_67",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_67",
+      "target": "char_66",
+      "label": "knows"
+    },
+    {
+      "source": "char_67",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_68",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_68",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_68",
+      "target": "char_63",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_8",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_13",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_28",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_36",
+      "label": "friend"
+    },
+    {
+      "source": "char_69",
+      "target": "char_41",
+      "label": "friend"
+    },
+    {
+      "source": "char_69",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_56",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_74",
+      "label": "knows"
+    },
+    {
+      "source": "char_69",
+      "target": "char_76",
+      "label": "knows"
+    },
+    {
+      "source": "char_70",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_70",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_70",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_70",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_70",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_70",
+      "target": "char_20",
+      "label": "knows"
+    },
+    {
+      "source": "char_70",
+      "target": "char_49",
+      "label": "knows"
+    },
+    {
+      "source": "char_70",
+      "target": "char_57",
+      "label": "knows"
+    },
+    {
+      "source": "char_70",
+      "target": "char_58",
+      "label": "knows"
+    },
+    {
+      "source": "char_70",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_70",
+      "target": "char_64",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_0",
+      "label": "friend"
+    },
+    {
+      "source": "char_71",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_8",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_9",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_10",
+      "label": "family"
+    },
+    {
+      "source": "char_71",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_13",
+      "label": "friend"
+    },
+    {
+      "source": "char_71",
+      "target": "char_14",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_15",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_25",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_26",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_28",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_29",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_36",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_38",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_42",
+      "label": "friend"
+    },
+    {
+      "source": "char_71",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_67",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_72",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_73",
+      "label": "friend"
+    },
+    {
+      "source": "char_71",
+      "target": "char_76",
+      "label": "knows"
+    },
+    {
+      "source": "char_71",
+      "target": "char_79",
+      "label": "friend"
+    },
+    {
+      "source": "char_72",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_72",
+      "target": "char_8",
+      "label": "knows"
+    },
+    {
+      "source": "char_72",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_72",
+      "target": "char_25",
+      "label": "knows"
+    },
+    {
+      "source": "char_72",
+      "target": "char_29",
+      "label": "knows"
+    },
+    {
+      "source": "char_72",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_72",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_72",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_13",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_15",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_19",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_23",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_32",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_36",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_40",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_43",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_45",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_49",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_51",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_56",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_66",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_71",
+      "label": "friend"
+    },
+    {
+      "source": "char_73",
+      "target": "char_74",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_77",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_79",
+      "label": "knows"
+    },
+    {
+      "source": "char_73",
+      "target": "char_80",
+      "label": "knows"
+    },
+    {
+      "source": "char_74",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_74",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_74",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_74",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_74",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_74",
+      "target": "char_13",
+      "label": "knows"
+    },
+    {
+      "source": "char_74",
+      "target": "char_20",
+      "label": "knows"
+    },
+    {
+      "source": "char_74",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_74",
+      "target": "char_57",
+      "label": "knows"
+    },
+    {
+      "source": "char_74",
+      "target": "char_64",
+      "label": "knows"
+    },
+    {
+      "source": "char_74",
+      "target": "char_65",
+      "label": "knows"
+    },
+    {
+      "source": "char_74",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_74",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_75",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_75",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_76",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_76",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_76",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_76",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_76",
+      "target": "char_13",
+      "label": "knows"
+    },
+    {
+      "source": "char_76",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_76",
+      "target": "char_41",
+      "label": "knows"
+    },
+    {
+      "source": "char_76",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_76",
+      "target": "char_69",
+      "label": "knows"
+    },
+    {
+      "source": "char_76",
+      "target": "char_71",
+      "label": "knows"
+    },
+    {
+      "source": "char_77",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_77",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_77",
+      "target": "char_15",
+      "label": "knows"
+    },
+    {
+      "source": "char_77",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_78",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_78",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_78",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_78",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_78",
+      "target": "char_48",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_10",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_12",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_13",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_15",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_19",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_21",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_32",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_36",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_40",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_42",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_49",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_50",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_51",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_52",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_53",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_56",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_60",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_71",
+      "label": "friend"
+    },
+    {
+      "source": "char_79",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_79",
+      "target": "char_80",
+      "label": "knows"
+    },
+    {
+      "source": "char_80",
+      "target": "char_0",
+      "label": "knows"
+    },
+    {
+      "source": "char_80",
+      "target": "char_1",
+      "label": "knows"
+    },
+    {
+      "source": "char_80",
+      "target": "char_4",
+      "label": "knows"
+    },
+    {
+      "source": "char_80",
+      "target": "char_7",
+      "label": "knows"
+    },
+    {
+      "source": "char_80",
+      "target": "char_11",
+      "label": "knows"
+    },
+    {
+      "source": "char_80",
+      "target": "char_13",
+      "label": "knows"
+    },
+    {
+      "source": "char_80",
+      "target": "char_16",
+      "label": "knows"
+    },
+    {
+      "source": "char_80",
+      "target": "char_18",
+      "label": "knows"
+    },
+    {
+      "source": "char_80",
+      "target": "char_30",
+      "label": "knows"
+    },
+    {
+      "source": "char_80",
+      "target": "char_33",
+      "label": "knows"
+    },
+    {
+      "source": "char_80",
+      "target": "char_50",
+      "label": "knows"
+    },
+    {
+      "source": "char_80",
+      "target": "char_51",
+      "label": "knows"
+    },
+    {
+      "source": "char_80",
+      "target": "char_59",
+      "label": "knows"
+    },
+    {
+      "source": "char_80",
+      "target": "char_73",
+      "label": "knows"
+    },
+    {
+      "source": "char_80",
+      "target": "char_79",
+      "label": "knows"
+    }
+  ]
+}
